@@ -1,6 +1,31 @@
 {
-    "scripts": {
-      "dev": "vuepress dev",
-      "build": "vuepress build"
-    }
+  "name": "vuepress-starter",
+  "version": "1.0.0",
+  "description": "这是在21云盒子上创建的VuePress样例。",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "serve": "yarn dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobyglei/vuepress-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobyglei/vuepress-starter/issues"
+  },
+  "homepage": "https://github.com/tobyglei/vuepress-starter#readme",
+  "dependencies": {
+    "global": "^4.3.2",
+    "vuepress": "^1.3.0"
+  },
+  "devDependencies": {
+  }
 }
