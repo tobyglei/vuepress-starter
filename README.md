@@ -6,4 +6,7 @@
 
 ## 部署
 
-详情看 [https://www.21yunbox.com/docs/v2/static.html#vuepress](https://www.21yunbox.com/docs/v2/static.html#vuepress)
+详情看 [https://www.21yunbox.com/docs/#/deploy-vuepress](https://www.21yunbox.com/docs/#/deploy-vuepress)
+
+## 国内加速入口
+* [Gitee](https://gitee.com/eryiyunbox-examples/vuepress-starter)
